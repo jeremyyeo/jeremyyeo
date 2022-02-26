@@ -12,3 +12,4 @@ jobs:
         run: |
           pip install cog
           pip list -v
+          python -m cog -h
