@@ -10,7 +10,7 @@ jobs:
           python-version: '3.8.12'
       - name: Install dependencies
         run: |
-          pip install --user cog requests
+          pip install twine
       - name: Rebuild readme
         run: |
-          python -m cogapp -h 
+          twine --help
