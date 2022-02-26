@@ -1,5 +1,7 @@
 name: update
-on: push
+on:
+  schedule:
+    - cron: '8 0 * * *' 
 jobs:
   build:
     runs-on: ubuntu-latest
