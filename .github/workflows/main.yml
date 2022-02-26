@@ -11,7 +11,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          python 3.8 -m venv venv
+          python3.8 -m venv venv
           source venv/bin/activate
           pip install cog
           cog -h
