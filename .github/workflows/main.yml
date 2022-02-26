@@ -10,7 +10,8 @@ jobs:
           python-version: '3.8.10'
       - name: Install dependencies
         run: |
+          pip install --upgrade pip
+          python 3.8 -m venv venv
+          source venv/bin/activate
           pip install cog
-      - name: Rebuild readme
-        run: |
           cog -h
