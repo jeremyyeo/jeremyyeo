@@ -10,7 +10,7 @@ r = requests.get("https://api.github.com/users/jeremyyeo/gists")
 
 for _ in r.json():
     if "#dbt" in _["description"]:
-        line = f"- [{_['description'].replace(' #dbt', '')}]({_['url']})"
+        line = f"- [{_['description'].replace(' #dbt', '')}]({_['html_url']})"
         cog.outl(line)
 
 ]]]*/
