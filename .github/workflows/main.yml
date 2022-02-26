@@ -13,7 +13,7 @@ jobs:
           pip install cog requests
       - name: Rebuild readme
         run: |
-          cog -o README.md -d src/README.md
+          python -m cogapp -o README.md -d src/README.md
       - name: Commit and push to git
         run: |
           git config user.name github-actions
