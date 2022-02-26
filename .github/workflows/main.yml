@@ -11,4 +11,4 @@ jobs:
       - name: Install dependencies
         run: |
           pip install cog
-          pip show cogapp
+          pip list -v
