@@ -2,6 +2,7 @@ Helping customers dbt @ [dbt Labs](https://www.getdbt.com/).
 
 ### Advanced dbt topics
 
+- [Model name validation](https://gist.github.com/5e3bae4e7a2ff6c6b554880c0d8d0e86)
 - [Installing really old dbt versions](https://gist.github.com/dd3df9b6dde44f665b63a95b765ab893)
 - [Getting dbt Cloud to throw an error if a selection did not include any models](https://gist.github.com/57d09c7e1d4fe31e265a002d30078e3a)
 - [Adding custom generic dbt tests](https://gist.github.com/2e65478b5ec9d6593d7f36efbf412f17)
@@ -11,7 +12,7 @@ Helping customers dbt @ [dbt Labs](https://www.getdbt.com/).
 - [Overriding dbt Cloud default database / schema on CI runs](https://gist.github.com/759d8675f9b36abfa8ba462c32f7c3e3)
 - [Creating jobs with the dbt Cloud API](https://gist.github.com/38f7025e1c3aa07fe5d0631c5c6fe222)
 - [Customising dbt snapshots](https://gist.github.com/7da6a6a4fd6dba598c04c431f74e91c0)
-- [dbt SCD-2 models with stock incremental model](https://gist.github.com/3a23f3fbcb72f10a17fc4d31b8a47854)
+- [Building SCD-2 models using the default incremental materialization](https://gist.github.com/3a23f3fbcb72f10a17fc4d31b8a47854)
 
 
 ### Updating this readme
@@ -26,4 +27,4 @@ cog -o README.md -d src/README.md
 
 This is also periodically regenerated via a GitHub workflow.
 
-_Last generated at: Mar 01, 2022 01:48:12 UTC_
+_Last generated at: Mar 02, 2022 01:44:32 UTC_
