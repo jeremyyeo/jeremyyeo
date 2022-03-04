@@ -2,6 +2,7 @@ Helping customers dbt @ [dbt Labs](https://www.getdbt.com/).
 
 ### Advanced dbt topics
 
+- [Making dbt use a BigQuery project that is different to our production jobs when developing in the cloud IDE](https://gist.github.com/197fc3e56c75a1530e3e69675ee9e1c8)
 - [Model name validation](https://gist.github.com/5e3bae4e7a2ff6c6b554880c0d8d0e86)
 - [Installing really old dbt versions](https://gist.github.com/dd3df9b6dde44f665b63a95b765ab893)
 - [Getting dbt Cloud to throw an error if a selection did not include any models](https://gist.github.com/57d09c7e1d4fe31e265a002d30078e3a)
@@ -27,4 +28,4 @@ cog -o README.md -d src/README.md
 
 This is also periodically regenerated via a GitHub workflow.
 
-_Last generated at: Mar 03, 2022 01:45:32 UTC_
+_Last generated at: Mar 04, 2022 01:45:13 UTC_
