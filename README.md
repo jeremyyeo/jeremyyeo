@@ -2,6 +2,7 @@ Helping customers dbt @ [dbt Labs](https://www.getdbt.com/).
 
 ### Advanced dbt topics
 
+- [Why can't I upload the run_results.json file (using dbt_artifacts) in an on-run-end hook?](https://gist.github.com/4b83c2490e1290a9bd7a5e33c8afaaaa)
 - [Are dbt freshness checks expensive in Snowflake?](https://gist.github.com/9b33ae5dee456a59f800e4fcf87c74fe)
 - [Making dbt use a BigQuery project that is different to our production jobs when developing in the cloud IDE](https://gist.github.com/197fc3e56c75a1530e3e69675ee9e1c8)
 - [Model name validation](https://gist.github.com/5e3bae4e7a2ff6c6b554880c0d8d0e86)
@@ -29,4 +30,4 @@ cog -o README.md -d src/README.md
 
 This is also periodically regenerated via a GitHub workflow.
 
-_Last generated at: Jul 21, 2022 02:33:11 UTC_
+_Last generated at: Jul 22, 2022 02:33:07 UTC_
