@@ -2,6 +2,7 @@ Helping customers dbt @ [dbt Labs](https://www.getdbt.com/).
 
 ### Advanced dbt topics
 
+- [Live tailing a dbt Cloud run using the dbt Cloud API](https://gist.github.com/234ced3b8b2cc3a528ba48a2c343748d)
 - [Filtering dbt's catalog query to only relations that are used in the project](https://gist.github.com/f83ca852510956ba3f2f96aa079c43d5)
 - [Hooks vs operations in dbt](https://gist.github.com/f97b6684643a9333d7901b4cefada32c)
 - [Why can't I upload the run_results.json file (using dbt_artifacts) in an on-run-end hook?](https://gist.github.com/4b83c2490e1290a9bd7a5e33c8afaaaa)
@@ -32,4 +33,4 @@ cog -o README.md -d src/README.md
 
 This is also periodically regenerated via a GitHub workflow.
 
-_Last generated at: Aug 11, 2022 02:17:54 UTC_
+_Last generated at: Aug 12, 2022 02:25:18 UTC_
