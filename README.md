@@ -2,6 +2,8 @@ Helping customers dbt @ [dbt Labs](https://www.getdbt.com/).
 
 ### Advanced dbt topics
 
+- [Tidying up the SQL statements dbt generates](https://gist.github.com/38e77b15abd4a873cbde085fee39e347)
+- [Accessing private GitHub repositories (dbt packages) using GitHub Apps installation access tokens](https://gist.github.com/273edd90580353709f15d393a8c5c531)
 - [Live tailing a dbt Cloud run using the dbt Cloud API](https://gist.github.com/234ced3b8b2cc3a528ba48a2c343748d)
 - [Filtering dbt's catalog query to only relations that are used in the project](https://gist.github.com/f83ca852510956ba3f2f96aa079c43d5)
 - [Hooks vs operations in dbt](https://gist.github.com/f97b6684643a9333d7901b4cefada32c)
@@ -33,4 +35,4 @@ cog -o README.md -d src/README.md
 
 This is also periodically regenerated via a GitHub workflow.
 
-_Last generated at: Sep 12, 2022 03:06:28 UTC_
+_Last generated at: Sep 13, 2022 03:02:42 UTC_
