@@ -2,6 +2,7 @@ Helping customers dbt @ [dbt Labs](https://www.getdbt.com/).
 
 ### Advanced dbt topics
 
+- [ The difference between `--select` and `--selector` arguments in dbt commands](https://gist.github.com/1aeca767e2a4f157b07955d58f8078f7)
 - [Tidying up the SQL statements dbt generates](https://gist.github.com/38e77b15abd4a873cbde085fee39e347)
 - [Accessing private GitHub repositories (dbt packages) using GitHub Apps installation access tokens](https://gist.github.com/273edd90580353709f15d393a8c5c531)
 - [Live tailing a dbt Cloud run using the dbt Cloud API](https://gist.github.com/234ced3b8b2cc3a528ba48a2c343748d)
@@ -35,4 +36,4 @@ cog -o README.md -d src/README.md
 
 This is also periodically regenerated via a GitHub workflow.
 
-_Last generated at: Sep 22, 2022 02:47:48 UTC_
+_Last generated at: Sep 23, 2022 03:05:40 UTC_
