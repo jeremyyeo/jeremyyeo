@@ -23,7 +23,6 @@ Helping customers dbt @ [dbt Labs](https://www.getdbt.com/).
 - [Overriding dbt Cloud default database / schema on CI runs](https://gist.github.com/759d8675f9b36abfa8ba462c32f7c3e3)
 - [Creating jobs with the dbt Cloud API](https://gist.github.com/38f7025e1c3aa07fe5d0631c5c6fe222)
 - [Customising dbt snapshots](https://gist.github.com/7da6a6a4fd6dba598c04c431f74e91c0)
-- [Building SCD-2 models using the default incremental materialization](https://gist.github.com/3a23f3fbcb72f10a17fc4d31b8a47854)
 
 
 ### Updating this readme
@@ -38,4 +37,4 @@ cog -o README.md -d src/README.md
 
 This is also periodically regenerated via a GitHub workflow.
 
-_Last generated at: Oct 26, 2022 02:34:31 UTC_
+_Last generated at: Oct 27, 2022 02:30:04 UTC_
