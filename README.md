@@ -21,7 +21,6 @@ Helping customers dbt @ [dbt Labs](https://www.getdbt.com/).
 - [Making a dbt materialization that ignores certain columns](https://gist.github.com/1927816bfaebcf3be91f605e9d84d215)
 - [Customising the dbt-event-logging package](https://gist.github.com/67e35e37880e3e7c8501672e183c4d5b)
 - [Overriding dbt Cloud default database / schema on CI runs](https://gist.github.com/759d8675f9b36abfa8ba462c32f7c3e3)
-- [Creating jobs with the dbt Cloud API](https://gist.github.com/38f7025e1c3aa07fe5d0631c5c6fe222)
 
 
 ### Updating this readme
@@ -36,4 +35,4 @@ cog -o README.md -d src/README.md
 
 This is also periodically regenerated via a GitHub workflow.
 
-_Last generated at: Nov 02, 2022 02:39:59 UTC_
+_Last generated at: Nov 03, 2022 02:23:05 UTC_
