@@ -2,6 +2,7 @@ Helping customers dbt @ [dbt Labs](https://www.getdbt.com/).
 
 ### Advanced dbt topics
 
+- [Maintaining the order of columns with Redshift and](https://gist.github.com/c45daad12f071969604b0888b27f6488)
 - [ Making a macro use the same Snowflake warehouse as the model that's calling the macro](https://gist.github.com/16a38c644d6ba90e75d8d0a5ce879f34)
 - [Executing stored procedures from dbt](https://gist.github.com/e64fa3e8fafb7fa21235c80ce3048efa)
 - [ The difference between `--select` and `--selector` arguments in dbt commands](https://gist.github.com/1aeca767e2a4f157b07955d58f8078f7)
@@ -20,7 +21,6 @@ Helping customers dbt @ [dbt Labs](https://www.getdbt.com/).
 - [Recording model run errors in a table ](https://gist.github.com/064106e480106b49cd337f33a765ef20)
 - [Making a dbt materialization that ignores certain columns](https://gist.github.com/1927816bfaebcf3be91f605e9d84d215)
 - [Customising the dbt-event-logging package](https://gist.github.com/67e35e37880e3e7c8501672e183c4d5b)
-- [Overriding dbt Cloud default database / schema on CI runs](https://gist.github.com/759d8675f9b36abfa8ba462c32f7c3e3)
 
 
 ### Updating this readme
@@ -35,4 +35,4 @@ cog -o README.md -d src/README.md
 
 This is also periodically regenerated via a GitHub workflow.
 
-_Last generated at: Nov 16, 2022 02:15:17 UTC_
+_Last generated at: Nov 17, 2022 02:10:06 UTC_
