@@ -6,7 +6,7 @@ Helping customers dbt @ [dbt Labs](https://www.getdbt.com/).
 import cog
 import requests
 
-r = requests.get("https://api.github.com/users/jeremyyeo/gists")
+r = requests.get("https://api.github.com/users/jeremyyeo/gists?per_page=100")
 
 for _ in r.json():
     if "#dbt" in _["description"]:
