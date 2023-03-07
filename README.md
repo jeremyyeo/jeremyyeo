@@ -2,6 +2,7 @@ Helping customers dbt @ [dbt Labs](https://www.getdbt.com/).
 
 ### Advanced dbt topics
 
+- [Dynamically generating `where` parameters to the `dbt_utils.union_relations` macro](https://gist.github.com/81833f260b9b02960a8fe91896a0f1d3)
 - [Extracting Snowflake variant keys and mapping them to dbt vars so we can use them as column names](https://gist.github.com/4c5fb6db98a0cc3c876e718f80bb3420)
 - [Maintaining the order of columns with Redshift and dbt](https://gist.github.com/c45daad12f071969604b0888b27f6488)
 - [Making a macro use the same Snowflake warehouse as the model that's calling the macro](https://gist.github.com/16a38c644d6ba90e75d8d0a5ce879f34)
@@ -40,4 +41,4 @@ cog -o README.md -d src/README.md
 
 This is also periodically regenerated via a GitHub workflow.
 
-_Last generated at: Mar 06, 2023 01:56:26 UTC_
+_Last generated at: Mar 07, 2023 02:01:41 UTC_
