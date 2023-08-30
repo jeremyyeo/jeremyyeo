@@ -2,6 +2,7 @@ Helping customers dbt @ [dbt Labs](https://www.getdbt.com/).
 
 ### Advanced dbt topics
 
+- [What keys to use from results or graph to associate a test with a node (model/source)](https://gist.github.com/jeremyyeo/83adf1f412e5e497baef60e5ada35bf8)
 - [Why it's best not to use Truthy/Falsy/Boolean types with Jinja](https://gist.github.com/jeremyyeo/e97dbc79b536e2ae4a72d734fedb1812)
 - [A pattern for moving dbt vars from dbt_project.yml to macros](https://gist.github.com/jeremyyeo/06d552ee8facc8100416655ebc25d9b9)
 - [Unloading new rows to a Snowflake stage with hooks](https://gist.github.com/jeremyyeo/f07dbe9a7687ffc4976e1488a8e35547)
@@ -44,4 +45,4 @@ cog -o README.md -d src/README.md
 
 This is also periodically regenerated via a GitHub workflow.
 
-_Last generated at: Aug 29, 2023 01:19:05 UTC_
+_Last generated at: Aug 30, 2023 01:18:31 UTC_
