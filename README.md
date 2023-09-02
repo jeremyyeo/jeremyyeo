@@ -2,6 +2,7 @@ Helping customers dbt @ [dbt Labs](https://www.getdbt.com/).
 
 ### Advanced dbt topics
 
+- [Can dbt introspect a table created in a pre-hook if we try to query from it in the body of the model?](https://gist.github.com/jeremyyeo/4c96bfb112a084431038d6a64dd2a413)
 - [What keys to use from results or graph to associate a test with a node (model/source)](https://gist.github.com/jeremyyeo/83adf1f412e5e497baef60e5ada35bf8)
 - [Why it's best not to use Truthy/Falsy/Boolean types with Jinja](https://gist.github.com/jeremyyeo/e97dbc79b536e2ae4a72d734fedb1812)
 - [A pattern for moving dbt vars from dbt_project.yml to macros](https://gist.github.com/jeremyyeo/06d552ee8facc8100416655ebc25d9b9)
@@ -45,4 +46,4 @@ cog -o README.md -d src/README.md
 
 This is also periodically regenerated via a GitHub workflow.
 
-_Last generated at: Sep 01, 2023 01:23:26 UTC_
+_Last generated at: Sep 02, 2023 01:16:06 UTC_
