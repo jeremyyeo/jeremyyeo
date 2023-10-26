@@ -2,6 +2,7 @@ Helping customers dbt @ [dbt Labs](https://www.getdbt.com/).
 
 ### Advanced dbt topics
 
+- [Freshness checking models instead of sources with](https://gist.github.com/jeremyyeo/67f07c06c4cc6943838e7262728e3f7a)
 - [Converting the timestamps in dbt](https://gist.github.com/jeremyyeo/21c384f251d2216f46e3b7ae1ffe725f)
 - [Can dbt introspect a table created in a pre-hook if we try to query from it in the body of the model?](https://gist.github.com/jeremyyeo/4c96bfb112a084431038d6a64dd2a413)
 - [What keys to use from results or graph to associate a test with a node (model/source)](https://gist.github.com/jeremyyeo/83adf1f412e5e497baef60e5ada35bf8)
@@ -47,4 +48,4 @@ cog -o README.md -d src/README.md
 
 This is also periodically regenerated via a GitHub workflow.
 
-_Last generated at: Oct 25, 2023 01:20:04 UTC_
+_Last generated at: Oct 26, 2023 01:18:43 UTC_
