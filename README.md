@@ -2,6 +2,7 @@ Helping customers dbt @ [dbt Labs](https://www.getdbt.com/).
 
 ### Advanced dbt topics
 
+- [How to correctly use a macro that returns a value to a hook](https://gist.github.com/jeremyyeo/7866afc4e36c1d6afb5663ca34330a82)
 - [Using alternative hosts for dbt hub packages](https://gist.github.com/jeremyyeo/1dab5d07c661c94a8be0ddf56397e621)
 - [Using query comments to identify how things came to be](https://gist.github.com/jeremyyeo/88dc852c142fc78af193766d13366234)
 - [Freshness checking models instead of sources](https://gist.github.com/jeremyyeo/67f07c06c4cc6943838e7262728e3f7a)
@@ -50,4 +51,4 @@ cog -o README.md -d src/README.md
 
 This is also periodically regenerated via a GitHub workflow.
 
-_Last generated at: Nov 10, 2023 01:21:36 UTC_
+_Last generated at: Nov 11, 2023 02:16:56 UTC_
