@@ -13,6 +13,7 @@ Helping customers dbt @ [dbt Labs](https://www.getdbt.com/).
 - [A pattern for moving dbt vars from dbt_project.yml to macros](https://gist.github.com/jeremyyeo/06d552ee8facc8100416655ebc25d9b9)
 - [Unloading new rows to a Snowflake stage with hooks](https://gist.github.com/jeremyyeo/f07dbe9a7687ffc4976e1488a8e35547)
 - [Dynamically generating `where` parameters to the `dbt_utils.union_relations` macro](https://gist.github.com/jeremyyeo/81833f260b9b02960a8fe91896a0f1d3)
+- [dbt Cloud Slim CI using GitHub Actions](https://gist.github.com/jeremyyeo/429067b3c64fd5854bdfb717b4f5f303)
 - [Extracting Snowflake variant keys and mapping them to dbt vars so we can use them as column names](https://gist.github.com/jeremyyeo/4c5fb6db98a0cc3c876e718f80bb3420)
 - [Maintaining the order of columns with Redshift and dbt](https://gist.github.com/jeremyyeo/c45daad12f071969604b0888b27f6488)
 - [Making a macro use the same Snowflake warehouse as the model that's calling the macro](https://gist.github.com/jeremyyeo/16a38c644d6ba90e75d8d0a5ce879f34)
@@ -51,4 +52,4 @@ cog -o README.md -d src/README.md
 
 This is also periodically regenerated via a GitHub workflow.
 
-_Last generated at: Nov 13, 2023 01:23:52 UTC_
+_Last generated at: Nov 14, 2023 01:22:15 UTC_
