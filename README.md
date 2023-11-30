@@ -2,6 +2,7 @@ Helping customers dbt @ [dbt Labs](https://www.getdbt.com/).
 
 ### Advanced dbt topics
 
+- [How to get models to run only on local timezones if your scheduler only supports UTC](https://gist.github.com/jeremyyeo/76403ea85b74939fac75b8c5b029b6b9)
 - [How to do multi-threaded / parallel operations with dbt](https://gist.github.com/jeremyyeo/b61655a3e5a52eb27640363650c79a1e)
 - [How to correctly use a macro that returns a value to a hook](https://gist.github.com/jeremyyeo/7866afc4e36c1d6afb5663ca34330a82)
 - [Using alternative hosts for dbt hub packages](https://gist.github.com/jeremyyeo/1dab5d07c661c94a8be0ddf56397e621)
@@ -53,4 +54,4 @@ cog -o README.md -d src/README.md
 
 This is also periodically regenerated via a GitHub workflow.
 
-_Last generated at: Nov 29, 2023 01:30:42 UTC_
+_Last generated at: Nov 30, 2023 01:26:21 UTC_
