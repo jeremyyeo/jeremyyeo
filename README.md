@@ -2,6 +2,7 @@ Helping customers dbt @ [dbt Labs](https://www.getdbt.com/).
 
 ### Advanced dbt topics
 
+- [Which dbt nodes respect the generate_schema_name macro?](https://gist.github.com/jeremyyeo/fcdc4e40967435c3556612b9709fdcf4)
 - [Stopping dbt from auto-expanding column types](https://gist.github.com/jeremyyeo/0dc729bd090ccf0eec5bb9bce6b2859c)
 - [A quick explainer of the "dbt was unable to infer all dependencies for the model" error](https://gist.github.com/jeremyyeo/e949848d035a2bd8b7560c179b0d98da)
 - [How to get models to run only on local timezones if your scheduler only supports UTC](https://gist.github.com/jeremyyeo/76403ea85b74939fac75b8c5b029b6b9)
@@ -56,4 +57,4 @@ cog -o README.md -d src/README.md
 
 This is also periodically regenerated via a GitHub workflow.
 
-_Last generated at: Feb 02, 2024 01:19:18 UTC_
+_Last generated at: Feb 03, 2024 01:17:51 UTC_
