@@ -2,6 +2,7 @@ Helping customers dbt @ [dbt Labs](https://www.getdbt.com/).
 
 ### Advanced dbt topics
 
+- [Debugging dbt snapshots](https://gist.github.com/jeremyyeo/7282a2e25d86fe8b449ed70e8cdf10ff)
 - [Which dbt nodes respect the generate_schema_name macro?](https://gist.github.com/jeremyyeo/fcdc4e40967435c3556612b9709fdcf4)
 - [Stopping dbt from auto-expanding column types](https://gist.github.com/jeremyyeo/0dc729bd090ccf0eec5bb9bce6b2859c)
 - [A quick explainer of the "dbt was unable to infer all dependencies for the model" error](https://gist.github.com/jeremyyeo/e949848d035a2bd8b7560c179b0d98da)
@@ -57,4 +58,4 @@ cog -o README.md -d src/README.md
 
 This is also periodically regenerated via a GitHub workflow.
 
-_Last generated at: Mar 19, 2024 01:19:30 UTC_
+_Last generated at: Mar 20, 2024 01:19:00 UTC_
