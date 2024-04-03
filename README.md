@@ -2,6 +2,7 @@ Helping customers dbt @ [dbt Labs](https://www.getdbt.com/).
 
 ### Advanced dbt topics
 
+- [Converting a dbt jinja macro to a python function for use in a python model](https://gist.github.com/jeremyyeo/617e8c8e6549bd8d0ae0814a0273bae4)
 - [Debugging dbt snapshots](https://gist.github.com/jeremyyeo/7282a2e25d86fe8b449ed70e8cdf10ff)
 - [Which dbt nodes respect the generate_schema_name macro?](https://gist.github.com/jeremyyeo/fcdc4e40967435c3556612b9709fdcf4)
 - [Stopping dbt from auto-expanding column types](https://gist.github.com/jeremyyeo/0dc729bd090ccf0eec5bb9bce6b2859c)
@@ -58,4 +59,4 @@ cog -o README.md -d src/README.md
 
 This is also periodically regenerated via a GitHub workflow.
 
-_Last generated at: Apr 01, 2024 01:32:33 UTC_
+_Last generated at: Apr 03, 2024 01:19:36 UTC_
