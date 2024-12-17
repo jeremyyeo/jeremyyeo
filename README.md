@@ -59,4 +59,4 @@ cog -o README.md -d src/README.md
 
 This is also periodically regenerated via a GitHub workflow.
 
-_Last generated at: Dec 16, 2024 02:04:44 UTC_
+_Last generated at: Dec 17, 2024 02:00:52 UTC_
